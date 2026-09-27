@@ -1,4 +1,0 @@
-{
-  "name": "MyApp",
-  "command": "cmake -B build && cmake --build build && ./build/c-dsa"
-}
